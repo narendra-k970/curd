@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.form-div{
+    width: 800px !important;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
